@@ -1,5 +1,7 @@
-prime=int(input())
-if prime<1000:
-  print("yes")
+n=int(input())
+for i in range(2,n):
+    if(n%i==0):
+        print("no")
+        break
 else:
-  print("no")
+    print("yes")
