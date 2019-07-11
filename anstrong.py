@@ -6,6 +6,6 @@ while temp>0:
   sum+=dig**3
   temp=temp//10
 if sum=num:
-  print("anstrong number")
+  print("yes")
 else:
-  print("not an anstrong number")
+  print("no")
