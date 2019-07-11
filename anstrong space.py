@@ -2,7 +2,7 @@ x,y=map(int,input().split())
 a=[]
 sum=0
 
-for num in range(n,u):
+for num in range(x,y):
    temp=num
    while temp > 0:
        digit = temp % 10
