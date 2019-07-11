@@ -1,5 +1,5 @@
-p=int(input())
-if p<1000:
+prime=int(input())
+if prime<1000:
   print("yes")
 else:
   print("no")
