@@ -1,6 +1,6 @@
 
 qq=input()
-v=1
+v=0
 for i in qq:
     if i==" ":
         v=v+1
