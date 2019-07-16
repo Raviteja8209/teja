@@ -1,9 +1,4 @@
-bb=int(input())
-jj=0
-if(bb<60):
-  print(0,bb)
-else:
-  while(bb>=60):
-   bb=bb-60;
-    jj=jj+1
-  print(jj,bb)
+pq=int(input())
+minute=pq//60
+seconds=pq%60
+print(minute,seconds)
