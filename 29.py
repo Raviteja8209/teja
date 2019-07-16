@@ -1,9 +1,9 @@
 bb=int(input())
-j=0
+jj=0
 if(bb<60):
   print(0,bb)
 else:
   while(bb>=60):
    bb=bb-60;
-    j=j+1
-  print(j,bb)
+    jj=jj+1
+  print(jj,bb)
