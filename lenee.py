@@ -1,2 +1,2 @@
-h=input()
-print(len(h))
+h22=input()
+print(len(h22))
