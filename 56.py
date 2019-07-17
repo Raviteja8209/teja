@@ -1,6 +1,6 @@
 m=input()
 counto=0
-for i in q:
+for i in m:
   if (i.isdigit() or i.isalpha()):
     counto+=1
 if counto!=0:
