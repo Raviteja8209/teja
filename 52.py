@@ -1,4 +1,4 @@
 p=int(input())
-m=['one','two','three','four','five','six','seven','eight','nine','ten']
+m=['One','Two','Three','Four','Five','Six','Seven','Eight','Nine','Ten']
 if 1<=p<=10:
     print(m[p-1])
