@@ -1,2 +1,2 @@
-ll=input()
-print(ll)
+ravi=input()
+print(ravi)
